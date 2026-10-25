@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792900499|3815704';
+const CACHE_VERSION = '1792901457|3812929';
 /** @type {string} */
 const CACHE_PREFIX = 'Hollow Oak-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
